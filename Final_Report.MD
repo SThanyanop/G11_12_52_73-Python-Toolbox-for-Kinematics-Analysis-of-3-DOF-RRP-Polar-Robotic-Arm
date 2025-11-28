@@ -2847,7 +2847,6 @@ ax.scatter(path_points[frame, 0], path_points[frame, 1], path_points[frame, 2], 
 | TC-11 | Interactive Visualization |  PASS |
 | TC-12 | Trajectory Visualization |  PASS |
 | TC-13 | 3D Workspace |  FAIL |
-ระบบผ่านการทดสอบทุกกรณีตามเกณฑ์ที่กำหนด แสดงให้เห็นว่า implementation มีความถูกต้องและเชื่อถือได้สำหรับการใช้งาน
 
 ### 11.11 Summary of Validation Results
 
